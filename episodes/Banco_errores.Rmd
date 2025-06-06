@@ -30,6 +30,8 @@ exercises: 8
 
 ## Banco de preguntas
 
+Andree
+
 ### ¿Es necesario RTools?
 
 Hay varios problemas comunes en R que pueden requerir la instalación de Rtools.
